@@ -1,4 +1,4 @@
-# تجاهل ملفات البناء
+# Ignore build files
 *.obj
 *.exe
 *.o
@@ -6,11 +6,11 @@
 build/
 bin/
 
-# تجاهل ملفات الإعدادات الخاصة بمحررات النصوص
+# Ignore text editor configuration files
 .vscode/
 .idea/
 .vs/
 
-# تجاهل ملفات المكتبات الكبيرة (إن وُجدت)
+# Ignore large library files (if any)
 packages/
 *.dll
