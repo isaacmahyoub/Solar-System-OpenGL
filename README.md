@@ -88,7 +88,7 @@ Build the project and run the generated executable.
 ## 👥 Contributors
 
 1. Isaac Mahyoub Abdullah Abdulkhaliq  
-2. Muayad Abdulghani Abdullah Abdulkhaleq  
+2. Muayad Abdulghani Abdullah Abdulkhaliq  
 3. Mohammed Hasan Mohammed Abdullah  
 4. Najmuddin Fath Ahmed Numan  
 5. Waleed Razzaz Abdulwahid Ghalib
